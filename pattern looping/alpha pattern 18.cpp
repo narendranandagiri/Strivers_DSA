@@ -14,3 +14,9 @@ int main(){
     }
     return 0;
 }
+
+// E         
+// D E       
+// C D E     
+// B C D E   
+// A B C D E 
