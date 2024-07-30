@@ -1,0 +1,11 @@
+inside main function only10^6 array size can be declared.
+
+but globally 1e7 ==> 10^7
+
+if any  array is declaread globally every thing in the array is 0.
+
+
+for hashing ==>  map, unordered_map;
+
+
+map
